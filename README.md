@@ -1,7 +1,7 @@
-## DRDO Research on Digital Image Processing
-Project Overview
+# DRDO Research on Digital Image Processing
+## Project Overview
 This repository contains research materials and documentation for a project on Digital Image Processing (DIP) conducted under the Defence Research and Development Organisation (DRDO). The research focuses on the fundamental concepts, techniques, and applications of DIP, as outlined in the Digital Image Processing, 4th Edition (DIP4e) content provided. The project aims to advance image analysis capabilities for defence applications, including surveillance, target recognition, and image enhancement.
-Repository Contents
+## Repository Contents
 This repository includes:
 
 Research Report: A comprehensive report detailing the fundamentals of DIP, including key concepts, methodologies, and applications.
@@ -9,7 +9,7 @@ Code Samples: Implementations of DIP algorithms (e.g., spatial filtering, Fourie
 Documentation: Detailed explanations of DIP techniques and their relevance to defence applications.
 References: Source material from Digital Image Processing, 4th Edition by Gonzalez and Woods.
 
-Topics Covered
+## Topics Covered
 The research is structured around the key topics from the DIP4e content, providing a foundation for understanding and applying DIP in defence contexts:
 1. Introduction to Digital Image Processing
 
@@ -78,20 +78,20 @@ Applications: Identifying objects in complex scenes.
 Methods: Statistical classifiers and deep convolutional neural networks (CNNs) for pattern recognition.
 Applications: Automated target recognition and threat detection.
 
-Objectives
+## Objectives
 
 Develop algorithms for real-time image enhancement and analysis in defence scenarios.
 Explore applications of DIP in surveillance, target detection, and secure image transmission.
 Provide a foundation for integrating DIP with machine learning for advanced defence systems.
 
-Getting Started
+## Getting Started
 Prerequisites
 
 Software: Python 3.x, MATLAB, or equivalent with libraries like OpenCV, NumPy, and SciPy.
 Hardware: GPU-enabled systems for processing large image datasets.
 Dependencies: Install required libraries as specified in requirements.txt (to be added).
 
-Installation
+## Installation
 
 Clone the repository:git clone https://github.com/<your-repo>/DRDO-DIP-Research.git
 
@@ -101,20 +101,20 @@ Install dependencies:pip install -r requirements.txt
 
 Explore the documentation and code samples in the respective folders.
 
-Usage
+## Usage
 
 Research Report: Refer to Fundamentals_of_Digital_Image_Processing_Report.pdf for a detailed overview.
 Code Samples: Run provided scripts to test DIP algorithms (e.g., spatial_filtering.py).
 Experiments: Use the provided datasets (to be added) for testing segmentation, restoration, or classification algorithms.
 
-Applications in Defence
+## Applications in Defence
 
 Surveillance: Enhancing low-light or noisy images for better visibility.
 Target Recognition: Using segmentation and classification for identifying objects in complex environments.
 Secure Communication: Implementing watermarking for secure image transmission.
 Radar Imaging: Reconstructing images from projections for situational awareness.
 
-Contributing
+## Contributing
 Contributions are welcome from DRDO researchers and collaborators. Please follow these steps:
 
 Fork the repository.
