@@ -1,4 +1,4 @@
-DRDO Research on Digital Image Processing
+## DRDO Research on Digital Image Processing
 Project Overview
 This repository contains research materials and documentation for a project on Digital Image Processing (DIP) conducted under the Defence Research and Development Organisation (DRDO). The research focuses on the fundamental concepts, techniques, and applications of DIP, as outlined in the Digital Image Processing, 4th Edition (DIP4e) content provided. The project aims to advance image analysis capabilities for defence applications, including surveillance, target recognition, and image enhancement.
 Repository Contents
